@@ -10,7 +10,7 @@ def breakfast (food= "Frosted Flakes")
 end
 
 
-def lunch (food= "grilled cheese")
+def lunch (food= "Grilled Cheese")
   puts "Lunchtime is the best time for #{food}"
 end
 
