@@ -11,11 +11,12 @@ end
 
 
 def lunch (food = "grilled cheese")
-  puts "Lunchtime is the best for #{food}"
+  puts "Lunchtime is the best time for #{food}"
 end
 
-
-
+def dinner (food = "salmon")
+  puts "Dinnertime is the best time for #{food}"
+end
 
 
 
