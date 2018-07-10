@@ -29,11 +29,11 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-breakfast("Pancakes")
+puts breakfast("Pancakes")
 
-lunch("Peanut butter")
+puts lunch("Peanut butter")
 
-dinner("Broccoli")
+puts dinner("Broccoli")
 
 
 # Call your methods without any arguments here
